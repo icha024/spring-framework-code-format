@@ -1,4 +1,4 @@
-# Spring Framework Code Formatter for IDEA Users
+# Spring Framework Code Style Formatter
 
 IDEA code formatter settings export from the tweaks outlined here:
 - https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-IDEA-Code-Formatting
