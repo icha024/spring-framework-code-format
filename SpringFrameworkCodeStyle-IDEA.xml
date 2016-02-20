@@ -1,4 +1,5 @@
 <code_scheme name="SpringFramework">
+  <option name="LINE_SEPARATOR" value="&#xA;" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="50" />
   <option name="IMPORT_LAYOUT_TABLE">
@@ -13,7 +14,9 @@
       <package name="org.springframework" withSubpackages="true" static="false" />
     </value>
   </option>
+  <option name="RIGHT_MARGIN" value="90" />
   <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
