@@ -9,4 +9,4 @@ Exported with IDEA 15.
 1. File menu -> Settings
 2. Editor -> Code Style -> Java
 3. Scheme -> Manage
-4. Import -> (Browse to file)
+4. Import -> (Browse to SpringFrameworkCodeStyle-IDEA.xml)
